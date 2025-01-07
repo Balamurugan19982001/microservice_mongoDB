@@ -95,8 +95,7 @@ curl -X POST http://localhost:8000/api/tasks \
 The project follows PSR-12 coding standards and includes:
 - Request validation
 - JWT authentication
-- Policy-based authorization
 - Unit and Feature tests
-- Repository pattern
+- MVC pattern
 - Comprehensive error handling
 ```
